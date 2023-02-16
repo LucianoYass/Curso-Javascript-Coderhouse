@@ -1,0 +1,9 @@
+h1 {
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 55px;
+}

@@ -1,0 +1,9 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: inline-block;
+    background-color: yellow;
+    text-transform: uppercase;
+}
+

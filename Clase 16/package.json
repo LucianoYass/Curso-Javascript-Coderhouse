@@ -1,0 +1,15 @@
+{
+  "name": "aplicacion",
+  "version": "1.2.0",
+  "description": "proyecto de js para coderhouse",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ecommerce"
+  ],
+  "author": "coderhouse",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+------------Javascript Coderhouse
+-Clase 1
+Javascript: lenguaje de programacion que se utiliza principalmente para aportar dinamismo a sitios web y apliaciones web. Se complementa con HTML y CSS3
+Se ejecuta a traves de un programa interprete. El standard actual es ES6 que salio en 2015.
+
+DATOS: diferentes tipos de informacion
+numericos: todo de indole numerica, edad, estatura, precio, etc; 
+cadenas: cadenas de texto, palabras separados con espacios, comas, frases, etc;
+booleanos: datos verdaderos o falsos;
+
+VARIABLES: dos tipos, globales o variables;
+
+OBJETOS: Array, boolean, date, math, string;
+
+ARRAYS: Indice, longitud;
+
+FUNCIONES: Argumentos;
+
+ALGORITMO: es un conjunto de procedimientos o funciones ordenados que se necesitan para realizar cierta operacion o accion. Implica tomar un dato, sumarlo a otro y obtener un resultado. Tienen principio y final, tiene que tener instrucciones de forma ordenada.
